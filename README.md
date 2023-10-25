@@ -1,8 +1,7 @@
 # OmarRamosZaravia.github.io
 Portafolio Web
 
-Puedes ver mi Portafolio Web aquí [^1].
+Puedes ver mi Portafolio Web aqui:
 
-[^1]: <https://omarramoszaravia.github.io/>
-
+<a href="https://omarramoszaravia.github.io/" onclick="window.open(this.href,'_blank');return false;">https://omarramoszaravia.github.io/</a>
 
