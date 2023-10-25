@@ -1418,6 +1418,8 @@ form textarea {
 
   #header {
       background-image: url(imagenes/perfil3.png);
+      display: flex;
+    
 
   }
 
@@ -1455,7 +1457,7 @@ form textarea {
   }
 
   .header-text h1 span {
-      color: #e7dfdf;
+      color: #ff004f;
   }
 
   .header-text h2 {
